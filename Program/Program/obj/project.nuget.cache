@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8UMc4/8HDWTYvkz/i9WFgSL3IVvWvLRJ7NdCEfx+xVQABOpQO6NrQMuDKE+R2IzOzrHnV51nMnn7UmlNcmYRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel.ferreira\\Documents\\desenvolvimento\\udemy\\C#-Completo\\Cap 3\\csharp-basico\\Program\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.ferreira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
